@@ -1,0 +1,49 @@
+.portfolio_table{
+  display: table;
+  width: 100%;
+  margin-bottom: 2%;
+}
+
+.portfolio_table_cell {
+  display: table-cell;
+  position: relative;
+  height: 100px;
+  width: 32%;
+}
+.portfolio_table_cell img {
+  display: block;
+  width: 100%;
+}
+.portfolio_last_table {
+  margin: 0;
+}
+
+.portfolio_table_color_blocks {
+  display: table;
+  width: 100%;
+}
+.portfolio_cell_color_block {
+  display: table-cell;
+  width: 25%;
+}
+
+.portfolio_block_with_text {
+  position: absolute;
+  height: 23%;
+  margin-top: -18%;
+  width: 100%;
+}
+.portfolio_block_with_text p {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  background-color: #fff;
+  color: #313131;
+}
+
+.portfolio_table_p {
+  display: table;
+  height: 100%;
+  width: 104%;
+  margin-left: -2%;
+}

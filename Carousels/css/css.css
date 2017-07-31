@@ -1,0 +1,30 @@
+body {
+    width: 1000px;
+    margin: auto;
+    background: url(../images/texture.jpg);
+}
+h2 {
+    text-align: center;
+    padding-top: 13px;
+}
+p {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: sans-serif;
+}
+div#main, div#fourth {
+    margin-top: 28px;
+    background-color: white;
+    outline: solid 9px rgba(255, 255, 255, 0.3);
+}
+div#first {
+    margin-top: 18px;
+    outline: solid 9px rgba(255, 255, 255, 0.3);
+}
+div#second {
+    float: right;
+}
+div#third {
+    float: left;
+    margin-right: 20px;
+}

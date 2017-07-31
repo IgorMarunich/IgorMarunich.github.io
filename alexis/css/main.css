@@ -1,0 +1,212 @@
+
+
+@media (min-width:950px) {
+  .header_banner_wrapper {
+    background: url(../img/big_imgs/office-header-1422.jpg) center no-repeat;}
+  .our_focus_banner_wrapper {
+    background: url(../img/big_imgs/work-space-500.jpg) center no-repeat;}
+  .our_team_banner_pic {
+    background: url(../img/big_imgs/coffee-1800.jpg) center no-repeat;}
+  .contact_footer {
+    background: url(../img/big_imgs/forest.jpg) center no-repeat;
+    background-size: 132%;
+  }
+  .container {width: 75%;}
+  footer {width: 75%;}
+  h1 {font-size: 38px;}
+  h2 {font-size: 32px;}
+  h3 {font-size: 24px;}
+  h4 {font-size: 16px;}
+  h5 {font-size: 13px;}
+  p {font-size: 10px;}
+  .p_describe {font-size: 12px;}
+  .input_text {font-size: 12px;}
+  .p_small {font-size: 10px;}
+  #nav {font-size: 11px;}
+}
+
+@media (min-width:1280px) {
+  .header_banner_wrapper {
+    background: url(../img/big_imgs/office-header-1777.jpg) center no-repeat;}
+  .our_focus_banner_wrapper {
+    background: url(../img/big_imgs/work-space-500.jpg) center no-repeat;}
+  .our_team_banner_pic {
+    background: url(../img/big_imgs/coffee-1800.jpg) center no-repeat;}
+  .contact_footer {
+    background: url(../img/big_imgs/forest.jpg) center no-repeat;
+    background-size: 105%;
+  }
+  .container {width: 60%;}
+  footer {width: 60%;}
+  h1 {font-size: 42px;}
+  h2 {font-size: 36px;}
+  h3 {font-size: 24px;}
+  h4 {font-size: 16px;}
+  h5 {font-size: 14px;}
+  p {font-size: 11px;}
+  .p_describe {font-size: 12px;}
+  .input_text {font-size: 12px;}
+  .p_small {font-size: 10px;}
+  #nav {font-size: 11px;}
+}
+
+@media (min-width:1640px) {
+  .header_banner_wrapper {
+    background: url(../img/big_imgs/office-header-2000.jpg) center no-repeat;}
+  .our_focus_banner_wrapper {
+    background: url(../img/big_imgs/work-space.jpg) center no-repeat;}
+  .our_team_banner_pic {
+    background: url(../img/big_imgs/coffee-2500.jpg) center no-repeat;}
+  .contact_footer {
+    background: url(../img/big_imgs/forest.jpg) center no-repeat;
+    background-size: 100%;
+  }
+  .container {width: 60%;}
+  footer {width: 60%;}
+  h1 {font-size: 54px;}
+  h2 {font-size: 44px;}
+  h3 {font-size: 27px;}
+  h4 {font-size: 21px;}
+  h5 {font-size: 18px;}
+  p {font-size: 14px;}
+  .p_describe {font-size: 17px;}
+  .input_text {font-size: 15px;}
+  .p_small {font-size: 12px;}
+  #nav {font-size: 13px;}
+}
+
+@media (min-width:1920px) {
+  .header_banner_wrapper {
+    background: url(../img/big_imgs/office-header-crop.jpg) center no-repeat;}
+  .our_focus_banner_wrapper {
+    background: url(../img/big_imgs/work-space.jpg) center no-repeat;}
+  .our_team_banner_pic {
+    background: url(../img/big_imgs/coffee-2500.jpg) center no-repeat;}
+  .contact_footer {
+    background: url(../img/big_imgs/forest.jpg) center no-repeat;
+    background-size: 100%;
+  }
+  .container {width: 60%;}
+  footer {width: 60%;}
+  h1 {font-size: 60px;}
+  h2 {font-size: 50px;}
+  h3 {font-size: 30px;}
+  h4 {font-size: 25px;}
+  h5 {font-size: 20px;}
+  p {font-size: 15px;}
+  .p_describe {font-size: 18px;}
+  .input_text {font-size: 16px;}
+  .p_small {font-size: 13px;}
+  #nav {font-size: 14px;}
+}
+
+
+
+h1 {
+  color: #fff;
+  font-family: "Libre Baskerville", serif;
+  line-height: 150%;
+}
+h2 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: bold;
+}
+h3, h4, h5, p, input, textarea, button, #nav {
+  font-family: Poppins, sans-serif;
+}
+
+
+
+.container {
+  margin: auto;
+  padding-top: 8%;
+  padding-bottom: 8%;
+}
+
+.shadow {
+  background-color: rgba(38, 39, 50, 0.85);
+}
+.shadow_block_img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+}
+
+.shadow_color_red {
+  background-image: linear-gradient(to top, rgba(252, 95, 69, 0.25) 0%, rgba(0, 0, 0, 0) 100%);
+}
+.shadow_color_green {
+  background-image: linear-gradient(to top, rgba(56, 198, 149, 0.29) 0%, rgba(0, 0, 0, 0) 100%);
+}
+.shadow_color_purple {
+  background-image: linear-gradient(to top, rgba(178, 124, 245, 0.29) 0%, rgba(0, 0, 0, 0) 100%);
+}
+.shadow_color_yellow {
+  background-image: linear-gradient(to top, rgba(254, 185, 96, 0.29) 0%, rgba(0, 0, 0, 0) 100%);
+}
+.name {
+  text-align: center;
+  margin-bottom: 25px;
+}
+.button {
+  cursor: pointer;
+  display: table;
+  width: 140px;
+  height: 38px;
+  border-radius: 25px;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  padding-top: 3px;
+  color: #fff;
+  background-color: #fc5f45;
+  margin: auto;
+  text-transform: uppercase;
+}
+.button:active {
+  color: #feb960;
+}
+.text_p {
+  color: #616161;
+  line-height: 1.7em;
+  text-align: center;
+}
+
+.text_h5 {
+  font-weight: bold;
+  margin: 23px 0;
+  text-align: center;
+}
+
+.name_describe_p {
+  text-align: center;
+  color: #616161;
+  margin-bottom: 50px;
+}
+
+.block_between_table_cell {
+  display: table-cell;
+}
+
+.sprite {
+  background: url(../img/spritesheet.png) no-repeat;
+  margin: auto;
+}
+
+.color-red {
+  height: 3px;
+  background-color: #fc5f45;
+}
+.color-green {
+  height: 3px;
+  background-color: #38c695;
+}
+.color-purple {
+  height: 3px;
+  background-color: #b27cf5;
+}
+.color-yellow {
+  height: 3px;
+  background-color: #feb960;
+}

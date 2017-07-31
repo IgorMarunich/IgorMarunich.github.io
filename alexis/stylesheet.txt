@@ -1,0 +1,167 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-button {
+    width: 80px;
+    height: 80px;
+    background-position: -1px -1px;
+}
+
+.sprite-disign {
+    width: 55px;
+    height: 50px;
+    background-position: -83px -1px;
+}
+
+.sprite-f {
+    width: 15px;
+    height: 15px;
+    background-position: -140px -1px;
+}
+
+.sprite-face {
+    width: 30px;
+    height: 31px;
+    background-position: -157px -1px;
+}
+
+.sprite-g_ {
+    width: 28px;
+    height: 31px;
+    background-position: -189px -1px;
+}
+
+.sprite-gift {
+    width: 51px;
+    height: 46px;
+    background-position: -140px -34px;
+}
+
+.sprite-graf {
+    width: 49px;
+    height: 48px;
+    background-position: -83px -82px;
+}
+
+.sprite-grafic {
+    width: 51px;
+    height: 48px;
+    background-position: -134px -82px;
+}
+
+.sprite-humage {
+    width: 47px;
+    height: 51px;
+    background-position: -1px -132px;
+}
+
+.sprite-img1 {
+    width: 41px;
+    height: 41px;
+    background-position: -187px -82px;
+}
+
+.sprite-img2 {
+    width: 40px;
+    height: 41px;
+    background-position: -187px -125px;
+}
+
+.sprite-img3 {
+    width: 41px;
+    height: 41px;
+    background-position: -50px -168px;
+}
+
+.sprite-in {
+    width: 15px;
+    height: 15px;
+    background-position: -193px -34px;
+}
+
+.sprite-inst {
+    width: 15px;
+    height: 15px;
+    background-position: -210px -34px;
+}
+
+.sprite-instagram {
+    width: 30px;
+    height: 31px;
+    background-position: -50px -125px;
+}
+
+.sprite-links {
+    width: 36px;
+    height: 36px;
+    background-position: -93px -168px;
+}
+
+.sprite-love {
+    width: 51px;
+    height: 44px;
+    background-position: -131px -132px;
+}
+
+.sprite-medal {
+    width: 36px;
+    height: 55px;
+    background-position: -184px -168px;
+}
+
+.sprite-pic {
+    width: 55px;
+    height: 43px;
+    background-position: -227px -1px;
+}
+
+.sprite-postcard {
+    width: 55px;
+    height: 40px;
+    background-position: -230px -46px;
+}
+
+.sprite-row {
+    width: 49px;
+    height: 48px;
+    background-position: -230px -88px;
+}
+
+.sprite-screen {
+    width: 53px;
+    height: 47px;
+    background-position: -229px -138px;
+}
+
+.sprite-tel {
+    width: 45px;
+    height: 41px;
+    background-position: -1px -187px;
+}
+
+.sprite-time {
+    width: 49px;
+    height: 49px;
+    background-position: -131px -187px;
+}
+
+.sprite-tw {
+    width: 32px;
+    height: 26px;
+    background-position: -1px -88px;
+}
+
+.sprite-twitter {
+    width: 15px;
+    height: 15px;
+    background-position: -35px -88px;
+}
+
+.sprite-vol {
+    width: 47px;
+    height: 48px;
+    background-position: -222px -187px;
+}

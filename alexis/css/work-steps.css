@@ -1,0 +1,54 @@
+.work_steps_margin_top {
+  margin-top: 10%;
+}
+.work_steps_wrapper_img {
+  width: 50%;
+  margin: auto;
+  position: relative;
+}
+.work_steps_img {
+  position: relative;
+}
+.work_steps_wrapper_img img {
+  width: 100%;
+  margin: auto;
+  display: block;
+}
+.work_steps_text_over_img {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.07);
+  background-color: #fff;
+  position: absolute;
+  width: 40%;
+  height: 100%;
+  top: -16%;
+}
+.work_steps_text_right {
+  right: 0;
+}
+.work_steps_text_wrapper {
+  display: table;
+  height: 100%;
+}
+.work_steps_num {
+  padding-top: 8%;
+  display: table-cell;
+  width: 25%;
+  text-align: center;
+  color: #e0e0e0;
+}
+.work_steps_text {
+  height: 100%;
+  display: table-cell;
+  padding-right: 14%;
+}
+.work_steps_block_title {
+  margin-bottom: 7%;
+}
+.work_steps_text h3 {
+  color: #272727;
+  font-family: Poppins, sans-serif;
+  font-size: 17px;
+}
+.work_steps_text p {
+  text-align: start;
+}
