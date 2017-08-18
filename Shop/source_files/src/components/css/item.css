@@ -1,0 +1,126 @@
+.item {
+  display: inline-block;
+}
+
+.item_inner {
+  margin: 5%;
+  border: 1px solid #e5e5e5;
+  padding: 10px;
+}
+
+.item_inner:hover {
+  box-shadow: 0 3px 7px rgba(0, 0, 0, 0.35);
+}
+
+.item_wrapper_img {
+  padding: 8px 0;
+  position: relative;
+  border: 1px solid #e5e5e5;
+}
+
+.item_img {
+  width: 100%;
+  display: block;
+  height: inherit;
+  margin: auto;
+}
+
+.item_title {
+  margin: 10px 0;
+  font-weight: bold;
+  font-size: 15px;
+  color: #333;
+}
+
+.item_description {
+  font-size: 12px;
+  color: #a5a4a4;
+  line-height: 1.5em
+}
+
+.item ul {
+  margin: 15px 0;
+}
+
+.item_discount_cost {
+  display: inline;
+  font-size: 17px;
+  color: #ed1111;
+  text-decoration: line-through;
+}
+
+.item_cost {
+  margin-right: 23px;
+  display: inline;
+  font-size: 25px;
+  color: #333333;
+}
+
+.btn_center_block {
+  width: 2%;
+  display: table-cell;
+}
+
+.btn {
+  cursor: pointer;
+  vertical-align: middle;
+  text-align: center;
+  border: 1px solid #e5e5e5;
+  display: table-cell;
+  width: 21%;
+  height: 40px;
+}
+
+.item_wrapper_btn {
+  display: inline-block;
+  width: 50%;
+}
+.btn_add {
+  font-weight: bold;
+  font-size: 13px;
+  color: #ed1111;
+}
+
+.btn_add:active {
+  background-color: #ed8e8e;
+}
+
+.btn_view {
+  font-size: 13px;
+  color: #999e9f;
+  background-color: #d9d9d9;
+}
+
+.btn_view:active {
+  background-color: #fff;
+}
+
+.item_badge {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  width: 56px;
+  height: 32px;
+  color: #fff;
+  font-size: 13px;
+}
+
+.item_badge_sale {
+  left: 0;
+  background-color: #ed1111;
+}
+
+.item_badge_new {
+  right: 0;
+  background-color: #000;
+}
+
+.item_badge_inner_text {
+  width: inherit;
+  height: inherit;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+

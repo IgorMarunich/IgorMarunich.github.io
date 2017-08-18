@@ -1,0 +1,30 @@
+.offers {
+  border: 1px solid #e5e5e5;
+  padding: 40px 30px;
+}
+
+.offers h2{
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 21px;
+}
+.offers p,
+.offers li {
+  font-size: 13px;
+  line-height: 1.5em;
+  color: #a5a4a4;
+}
+
+.offers p {
+  margin-bottom: 18px;
+}
+
+.offers li {
+  list-style-type: none;
+}
+
+.offers li:before {
+  content: '*';
+  color: #ed1111;
+  padding-right: 10px;
+}
